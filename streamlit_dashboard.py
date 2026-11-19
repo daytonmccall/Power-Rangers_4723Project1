@@ -2,8 +2,8 @@ import streamlit as st
 import geopandas as gpd
 import plotly.graph_objects as go
 
-# imports from other py files (currently state_highlight and filters)
-# filters is currently not used since data has not been imported)
+# Imports from other py files (currently state_highlight and filters)
+# Filters is currently not used since data has not been imported)
 from state_highlight import highlight_state
 from filters import apply_filters
 
