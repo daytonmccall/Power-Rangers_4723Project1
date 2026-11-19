@@ -2,4 +2,3 @@ streamlit
 geopandas
 plotly
 pyogrio
-pydeck
